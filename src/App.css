@@ -1,6 +1,7 @@
 nav {
   display: flex;
   justify-content: center;
+  align-items: center;
   text-align: center;
   text-transform: uppercase;
   gap: 2rem;
@@ -8,7 +9,6 @@ nav {
   height: 46px;
 }
 a {
-  margin-top: 12px;
   color: aliceblue;
   text-decoration: none;
 }
