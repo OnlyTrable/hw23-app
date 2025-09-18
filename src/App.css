@@ -1,0 +1,14 @@
+nav {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  text-transform: uppercase;
+  gap: 2rem;
+  background-color: cadetblue;
+  height: 46px;
+}
+a {
+  margin-top: 12px;
+  color: aliceblue;
+  text-decoration: none;
+}
